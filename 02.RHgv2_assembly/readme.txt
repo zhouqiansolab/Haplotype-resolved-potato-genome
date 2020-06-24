@@ -1,3 +1,7 @@
+author: Qian Zhou  zhouqian_solab@163.com
+data: 6/24/2020
+
+
 ###### Assemble the HiFi reads using CANU #####
 
 ####### Commands for canu assembly ############
