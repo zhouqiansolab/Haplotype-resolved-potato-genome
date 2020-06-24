@@ -1,3 +1,6 @@
+author: Qian Zhou  zhouqian_solab@163.com
+data: 6/24/2020
+
 #####using DiscovarDeNovo  to assemble the Illumina PE250 reads#####
 
 DiscovarDeNovo   OUT_DIR=asmoutput/  NUM_THREADS=90 READS=A_L1_I307.R1.clean.fastq.gz,A_L1_I307.R2.clean.fastq.gz, A_L2_I308.R1.clean.fastq.gz,A_L2_I308.R2.clean.fastq.gz,B_L1_I307.R1.clean.fastq.gz,B_L1_I307.R2.clean.fastq.gz,B_L2_I308.R1.clean.fastq.gz,B_L2_I308.R2.clean.fastq.gz
