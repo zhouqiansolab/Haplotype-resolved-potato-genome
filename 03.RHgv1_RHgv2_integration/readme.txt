@@ -1,3 +1,7 @@
+author: Qian Zhou  zhouqian_solab@163.com
+data: 6/24/2020
+
+
 ####This pipeline is used to align the sequences of RHgv1 to RHgv2 and extract the sequences that can not be properly mapped.
 
 ###Use the RHgv1 contigs rather than the scaffolds
