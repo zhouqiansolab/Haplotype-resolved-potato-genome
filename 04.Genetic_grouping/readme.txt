@@ -1,3 +1,7 @@
+author: Qian Zhou  zhouqian_solab@163.com
+data: 6/24/2020
+
+
 ####This pipeline is used to phase and group the assembled sequences of diploid genome based on the low-coverage sequencing of a segregation population.####
 ###The input files are the assembled genome draft and the Illumina reads of sequenced individuals. The output are the groups presenting the two haplotypes of each chromosome, including a number of scaffolds or contigs.###
 
